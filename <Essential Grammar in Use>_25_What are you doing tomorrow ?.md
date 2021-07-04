@@ -20,6 +20,7 @@ But we use the present simple (***start***,***arrives*** etc.) for timetables, p
 * The train ***arrives*** at 7.30.
 * What time ***does*** the film ***finish***?
 
+Compare:
 | *present continuous* ( usually for people) | *present simple* (for timetables, programmes etc) |
 | - | - |
 | I'***m going*** to a concert tomorrow. | The concert ***starts*** as 7.30. |
